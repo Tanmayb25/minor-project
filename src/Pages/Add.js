@@ -26,10 +26,10 @@ function Add() {
       <tbody>
         <tr>
           <td>1</td>
-          <td>Length</td>
-          <td>10</td>
-          <td>20</td>
-          <td>cm</td>
+          <td><input></input></td>
+          <td><input></input></td>
+          <td><input></input></td>
+          <td><input></input></td>
         </tr>
       </tbody>
     </Table>
